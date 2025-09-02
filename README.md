@@ -32,3 +32,12 @@ BMS 3S(for charging)
 ACS712- sensor 
 Ultrasonic - sensor
 
+# Explaination video
+[Explaination][def2]
+
+# Final working video in water
+
+[Final_Working_Video][def]
+
+[def]: https://youtu.be/6Yq-XlbwNuk?si=vmWOJltSE4qC5XNr
+[def2]: https://youtu.be/MGt8BImz9mY?si=OUHT7W3HT5AhyJ7G

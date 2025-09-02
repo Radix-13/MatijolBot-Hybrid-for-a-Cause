@@ -17,7 +17,7 @@ The robot is powered by a 3S Li-ion battery pack (≈12 V) that splits into thre
 # MatijolBot
 ![Image](https://github.com/user-attachments/assets/eb284491-3720-43d8-8abb-c30f324b0f19)
 
-#--------Robot System Architecture & Functionality Flowchart-------------
+# -------Robot System Architecture & Functionality Flowchart-------------
 <img width="488" height="397" alt="Image" src="https://github.com/user-attachments/assets/e41813c0-9e0b-49ad-8196-5522bf40f20f" />
 
 # -------Components Used------------

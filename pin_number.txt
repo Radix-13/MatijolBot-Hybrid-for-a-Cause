@@ -1,0 +1,23 @@
+# Car motor Driver (L298N,channel A)
+LEFT IN1-D4
+LEFT IN2-D5
+RIGHT IN1-D6
+RIGHT IN2-D7
+
+# Conveyor motor (L298N,channel B)
+ENB (PWM enable)-D10 (speed control)
+IN3(DIR)-D9(direction  line)
+IN4-tie LOW(Fixed)
+
+# Rear ultrasonic sensor
+TRIG-D12
+ECHO-D11
+
+# Bluetooth (HC-05)
+
+TXD-D0(RX)
+RXD-D1(TX)
+
+
+Current sensor (ACS712)
+OUT-A0

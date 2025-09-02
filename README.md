@@ -7,4 +7,6 @@ The robot is powered by a 3S Li-ion battery pack (≈12 V) that splits into thre
 #Cicuit
 <img width="612" height="347" alt="Image" src="https://github.com/user-attachments/assets/f85e4148-8b1b-4cbb-b789-e706ea48cc1b" />
 
-
+#MatijolBot
+![Image](https://github.com/user-attachments/assets/eb284491-3720-43d8-8abb-c30f324b0f19)
+<img width="612" height="347" alt="Image" src="https://github.com/user-attachments/assets/f85e4148-8b1b-4cbb-b789-e706ea48cc1b" />
